@@ -1,0 +1,9 @@
+sklearn.metrics.pairwise
+transformers
+sklearn.metrics
+transformers
+torch
+json
+re
+spacy
+spacy.lang.fr.stop_words
